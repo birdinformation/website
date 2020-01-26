@@ -3,7 +3,7 @@ ul {
   margin: 0;
   padding: 28px 0px
   overflow: hidden;
-  background-color: green;
+  background-color: black;
 }
 
 li {
@@ -11,7 +11,7 @@ li {
 }
 
 li a {
-  color: white;
+  color: green;
   text-align: center;
   padding: 0px 42px;
   text-decoration: none;
@@ -20,7 +20,3 @@ li.secret {
   color:green
 }
 
-/* Change the link color to #111 (black) on hover */
-li a:hover {
-  background-image: linear-gradient(to right, red, green); 
-}
